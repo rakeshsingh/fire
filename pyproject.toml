@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ls"
+name = "fire"
 version = "0.1.0"
 description = "financial independence"
 authors = ["Rakesh Singh <kumar.rakesh@gmail.com>"]
